@@ -46,7 +46,7 @@
 <br>
 
     - Forward any media or document
-    - text messages will also encryption
+    - text messages will also encrypted
 <br>
 
 ### Installation
