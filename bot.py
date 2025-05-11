@@ -10,7 +10,7 @@ import tempfile
 import os
 
 # Your bot token
-BOT_TOKEN = "7762497976:AAH6Z9OQksMguvUWzy5cuOozuB4nN9njd8A"
+BOT_TOKEN = "TELEGRAM-BOT-API"
 
 # /start command
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
